@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("Test double")
+	printf("Test double one more")
 	return 0;
 }
